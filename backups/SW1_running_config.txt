@@ -1,0 +1,8 @@
+! BACKUP TIME: 2026-02-27 12:33:26 UTC
+hostname SW1
+!
+interface GigabitEthernet0/0
+ ip address 10.0.0.10 255.255.255.0
+ no shutdown
+!
+end

@@ -1,0 +1,11 @@
+devices:
+  - name: R1
+    ip: 10.0.0.1
+    vendor: cisco
+  - name: R2
+    ip: 10.0.0.2
+    vendor: cisco
+  - name: SW1
+    ip: 10.0.0.10
+    vendor: cisco
+  
